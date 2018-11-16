@@ -1,0 +1,70 @@
+head {
+    width: 960px;
+}
+body {
+    width: 960px;
+}
+
+header {
+    text-align: center;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-bottom: 10px;
+    display: inline;
+    width: 960px;
+
+}
+
+#name {
+    width: 40%;
+    background-color: #4aaaa5;
+    color: white;
+    display: relative;
+    float: left;
+}
+
+#index {
+    width: 100px;
+    display: relative;
+    float: right;
+}
+
+#portfolio {
+    width: 100px;
+    border-right: 1px solid black;
+    display: relative;
+    float: right;
+}
+
+#contact {
+    width: 100px;
+    display: relative;
+    float: right;
+    border-right: 1px solid black;
+}
+
+#mainheading {
+    clear: both;
+    color: #4aaaa5;
+    padding-top: 50px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    float: left;
+
+}
+
+hr {
+    width: 960px;
+    padding-top: 0px;
+}
+
+.content {
+    width: 960px;
+}
+
+a {
+    text-decoration: none;
+}
